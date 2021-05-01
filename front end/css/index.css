@@ -1,5 +1,8 @@
-.bluebutton {
+.blueButton {
     background-color: blue;
-    font-size 15;
-    color: white;
+    font-size: 12;
+}
+.redButton{
+    background-color: red;
+    font-size: 20;
 }
